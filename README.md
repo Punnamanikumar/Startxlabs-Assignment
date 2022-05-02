@@ -1,2 +1,2 @@
 # Startxlabs-Assignment :
-   Hosted Url: https://punnamanikumar.github.io/Starxlabs-Assignment/
+   Hosted Url: https://punnamanikumar.github.io/Startxlabs-Assignment/
