@@ -2,7 +2,7 @@
 
 function timeConversion() {
   let n = document.getElementById("input1").value;
-  if (n !== "") {
+  if (n !== "" && n >= 0) {
     var hours = parseInt(n / 3600);
     n %= 3600;
     // console.log(hours, "hours");
