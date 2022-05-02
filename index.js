@@ -14,7 +14,7 @@ function timeConversion() {
     document.getElementById("one").innerText =
       hours + " Hours, " + minutes + " Minutes, " + Seconds + " Seconds.";
   } else {
-    alert("Please Enter any Number !!");
+    alert("Please Enter any Positive Number !!");
   }
 }
 
